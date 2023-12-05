@@ -1,5 +1,7 @@
 # nema17-planetary
 
+![image](https://github.com/ardc55/nema17-planetary/assets/122703257/647908c5-f79f-4b56-be16-64c5ed16185d)
+
 A 2-stage, 28:1 Planetary Gearbox made for the NEMA 17 standard.
 Uses mainly 3D-printed parts as well as some additional hardware to make a simple and inexpensive gearbox.
 
