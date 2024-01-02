@@ -1,4 +1,10 @@
-# Individual slicing and printing settings for each component
+## General Printing Notes
+
+The specific accuracy of your printer can greatly affect the outcome of the gearbox and how it fits together, resulting in either too much backlash or parts that do not not fit together. 
+If your printer is inaccurate, especially in the x and y axes, consider better calibrating your machine or using settings such as horizontal expansion and horizontal hole expansion with positive or negative values(Ultimater Cura) or equivalents for other slicers.
+
+
+## Individual slicing and printing settings for each component
 
 ## 1. GearFineHel.stl
 
@@ -141,6 +147,9 @@ Settings:
 - Slow print speeds (50mm/s)
 - PLA
 - Large support required
+
+
+
 
 
 
